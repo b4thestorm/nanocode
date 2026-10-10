@@ -30,6 +30,6 @@ def main():
         except (AgentStop, KeyboardInterrupt):
             print("\nExiting...")
             break
-        
+
 if __name__ == "__main__":
     main()
